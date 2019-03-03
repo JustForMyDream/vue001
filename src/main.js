@@ -15,7 +15,6 @@ import "./lib/mui/css/icons-extra.css"
 import app from './App.vue'
 
 
-
 var vm = new Vue({
     el:"#app",
     render:e=>e(app),
